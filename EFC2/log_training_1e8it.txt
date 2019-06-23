@@ -1,0 +1,22 @@
+Iniciando treinamento do classificador 1...
+Treinamento finalizado para o classificador 1. Custo minimo: 0.057032 na iteracao 426142.
+Iniciando treinamento do classificador 2...
+Treinamento finalizado para o classificador 2. Custo minimo: 0.044258 na iteracao 6742563.
+Iniciando treinamento do classificador 3...
+Treinamento finalizado para o classificador 3. Custo minimo: 0.022091 na iteracao 16181776.
+Iniciando treinamento do classificador 4...
+Treinamento finalizado para o classificador 4. Custo minimo: 0.032981 na iteracao 25009090.
+Iniciando treinamento do classificador 5...
+Treinamento finalizado para o classificador 5. Custo minimo: 0.260436 na iteracao 1603046.
+Iniciando treinamento do classificador 6...
+Treinamento finalizado para o classificador 6. Custo minimo: 0.688450 na iteracao 475.
+Matriz de confusao:
+  van  bus  saab  opel
+[[ 59.   1.   3.   0.]
+ [  2.  54.   2.   0.]
+ [  0.   3.  61.   3.]
+ [  1.   1.  55.   8.]]
+Precisao:  0.774568024798
+Recall:  0.725266775884
+F1-medida:  0.74910710672
+
